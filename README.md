@@ -1,6 +1,7 @@
 # Reviews-service
 
-> Review service component for Airbnb mockup
+> Which one is the real Airbnb?
+![reviews-service](https://github.com/hrr34-fec5/reviews-service/blob/master/reviews.jpg)
 
 ## Related Projects
 
